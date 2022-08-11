@@ -1,6 +1,6 @@
 [user]
 	name = Robin Grönlund
-	email = robin.gronlund@gmail.com
+	email = robin.gronlund@protonmail.com
 [core]
 	editor = vim
 	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
