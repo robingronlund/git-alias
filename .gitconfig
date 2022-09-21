@@ -54,5 +54,6 @@
   #############
 	pr = prune -v
 	pushb = push -u origin HEAD
+	upstream = push -u origin HEAD
 [push]
 	default = current
